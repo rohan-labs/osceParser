@@ -3,4 +3,4 @@ openai
 supabase
 PyPDF2
 docx2txt
-dotenv
+python-dotenv
