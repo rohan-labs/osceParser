@@ -1,5 +1,5 @@
 openai
-supabase-py
+supabase
 streamlit
 PyPDF2
 python-docx
