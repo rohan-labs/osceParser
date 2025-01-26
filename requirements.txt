@@ -1,6 +1,11 @@
+os
+json
+streamlit
 openai
 supabase
-streamlit
+io
+tempfile
+time
 PyPDF2
-python-docx
-python-dotenv
+docx2txt
+dotenv
