@@ -1,11 +1,6 @@
-os
-json
 streamlit
 openai
 supabase
-io
-tempfile
-time
 PyPDF2
 docx2txt
 dotenv
