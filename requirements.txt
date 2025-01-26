@@ -1,0 +1,6 @@
+openai
+supabase-py
+streamlit
+PyPDF2
+python-docx
+python-dotenv
