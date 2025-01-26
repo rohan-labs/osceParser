@@ -1,7 +1,7 @@
 import os
 import json
 import streamlit as st
-from openai import OpenAI
+import openai as OpenAI
 from supabase import create_client, Client
 from io import StringIO
 from tempfile import NamedTemporaryFile
