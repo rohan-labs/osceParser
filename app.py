@@ -1,11 +1,10 @@
 import os
 import json
 import streamlit as st
-import openai as OpenAI
-import supabase as Client
-from supabase import create_client
-import io as StringIO
-import tempfile as NamedTemporaryFile
+from openai import OpenAI
+from supabase import create_client, Client
+from io import StringIO
+from tempfile import NamedTemporaryFile
 import time
 import PyPDF2
 import docx2txt
