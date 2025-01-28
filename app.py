@@ -144,6 +144,7 @@ the following fields for each station:
 - category
 - stationName
 - candidateBrief
+- module (this must be an integer)
 
 Each of these must be treated as a string and should retain every word, including markdown or quotes.
 
@@ -158,6 +159,7 @@ markscheme: 1 mark for checking the patient's alertness. 1 mark for administerin
 category: Respiratory
 stationName: Acute Respiratory Distress
 candidateBrief: You are a junior doctor in A&E. A 50-year-old man presents with sudden respiratory distress...
+module: 10
 
 The output format should look like this:
 
@@ -168,7 +170,8 @@ The output format should look like this:
     "markscheme": "...",
     "category": "...",
     "stationName": "...",
-    "candidateBrief": "..."
+    "candidateBrief": "...",
+    "module: "..." 
   }}
 }}
 
