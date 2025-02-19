@@ -145,6 +145,7 @@ the following fields for each station:
 - stationName
 - candidateBrief
 - module (this must be an integer)
+- OSCE_prompt
 
 Each of these must be treated as a string and should retain every word, including markdown or quotes.
 
@@ -171,7 +172,8 @@ The output format should look like this:
     "category": "...",
     "stationName": "...",
     "candidateBrief": "...",
-    "module: "..." 
+    "module: "...",
+    "OSCE_prompt: "..."
   }}
 }}
 
