@@ -161,6 +161,7 @@ category: Respiratory
 stationName: Acute Respiratory Distress
 candidateBrief: You are a junior doctor in A&E. A 50-year-old man presents with sudden respiratory distress...
 module: 10
+OSCE_prompt: you are an AI patient 50-year-old patient father of three. Your main presenting complaint is...
 
 The output format should look like this:
 
